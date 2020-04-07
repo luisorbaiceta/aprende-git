@@ -1,4 +1,4 @@
-Aprende git
+Aprende git con estos cambios
 =========
 
 [![Build Status](https://travis-ci.com/JJ/aprende-git.svg?branch=master)](https://travis-ci.com/JJ/aprende-git)
